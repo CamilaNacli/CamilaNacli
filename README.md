@@ -2,6 +2,8 @@
 
 I’m an operations professional with hands-on experience in executive and administrative support, business operations, and customer support. I’ve supported a U.S.-based digital business remotely, organized day-to-day workflows, tracked tasks and deadlines, and built dashboards that gave the team visibility into its work.
 
+[Explore my portfolio](https://naclisolucoes.com/portfolio-camila-nacli/)
+
 ---
 
 ### What I do
