@@ -4,6 +4,22 @@ I’m an operations professional with hands-on experience in executive and admin
 
 ---
 
+### What I do
+
+**Executive & Administrative Support**  
+I support founders and remote teams with day-to-day coordination. I organize documents and information, track tasks and deadlines, and follow up on outstanding items.
+
+**Business Operations**  
+I document workflows, manage CRM pipelines, and build trackers and dashboards so teams can see what’s moving and what needs attention. I use tools like Google Sheets, Notion, Make, and Zapier to support these processes.
+
+**Customer Support & Onboarding**  
+I help customers and students get started, answer questions, troubleshoot access issues, and follow up through email, WhatsApp, and online communities.
+
+**Financial Operations**  
+As an independent banking correspondent, I coordinate mortgage applications from referral to completion. I collect and organize documents, follow up with clients and financial institutions, and track commissions and expected payments.
+
+---
+
 ### Featured project
 
 **[Mortgage Financing Operations & Dashboard](https://github.com/CamilaNacli/mortgage-financing-operations)**<br>
