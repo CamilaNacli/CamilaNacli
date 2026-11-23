@@ -1,24 +1,33 @@
 ## Hi, I'm Camila
 
-I work in **business operations and customer support**. Most of my work is about keeping things moving: following up on open cases, organizing documentation, explaining next steps clearly to customers, and improving the processes behind the work.
+I'm an operations professional working across **business operations, customer support and financial operations**. I use digital tools, automation and AI to organize processes, keep work moving and give teams clear visibility.
 
-For about five years I worked remotely for a U.S.-based business operation, starting as an assistant and growing into the COO role. Along the way I coordinated a remote team of five people across time zones, mostly through written, asynchronous communication.
+For about five years I worked remotely for a U.S.-based business operation, starting as an assistant and growing into the COO role, and coordinated a remote team of five people, mostly through written, asynchronous communication. Today I also run my own independent activity as a banking correspondent in real estate financing, managing applications end to end.
 
 ---
 
 ### What I do
 
-**Customer support & relationships**
-Handling customer questions, onboarding, solving problems end to end, and writing clear updates so people always know where their case stands.
-
-**Business operations**
+**Business Operations**<br>
 Designing and documenting processes, managing CRM pipelines, and building the routines that keep a remote team aligned.
 
-**Financial operations**
-As a banking correspondent, I followed real estate financing processes from start to finish: tracking each stage, chasing pending documents, and keeping communication flowing between customers and financial institutions.
+**Customer Support**<br>
+Onboarding clients, understanding their needs, solving problems end to end, and writing clear updates so people always know where things stand.
 
-**Process improvement & reporting**
-Spotting recurring issues, turning them into better workflows, and building automated dashboards fed by Google Sheets so the team could see status at a glance.
+**Financial Operations**<br>
+Following mortgage financing applications from referral to completion: intake, documentation, follow-up with clients and financial institutions, and tracking of commissions and expected payments.
+
+**AI Tools & Automation**<br>
+Using tools such as Make, Zapier, ChatGPT and Claude in my daily work, and building dashboards that update automatically from Google Sheets.
+
+---
+
+### Featured project
+
+**[Mortgage Financing Operations & Dashboard](https://github.com/CamilaNacli/mortgage-financing-operations)**<br>
+Tracking spreadsheet and dashboard I developed to manage mortgage financing applications end to end: pipeline status, monthly production tiers, commission splits and expected payments. [Live demo →](https://camilanacli.github.io/mortgage-financing-operations/)
+
+> **About the projects in this profile:** they are recreated demonstrations of solutions I developed during my professional experience. The original work is real; the public versions use fictional data only, to preserve the confidentiality of clients and organizations.
 
 ---
 
@@ -27,7 +36,7 @@ Spotting recurring issues, turning them into better workflows, and building auto
 - **Business Administration** degree and **MBA in Industrial Management** from FGV
 - **Supply Chain Analyst** at Volvo
 - **Assistant → COO**, remote operation for a U.S. business (~5 years)
-- **Banking correspondent**, real estate financing processes
+- **Independent banking correspondent**, real estate financing
 
 ---
 
@@ -37,13 +46,7 @@ Spotting recurring issues, turning them into better workflows, and building auto
 | --- | --- |
 | Communication & docs | Slack, Notion |
 | CRM | HubSpot, Clint CRM |
-| Data & reporting | Google Sheets |
+| Data & reporting | Google Sheets, Google Drive |
 | Automation | Make, Zapier |
 | Web & no-code | WordPress, Lovable |
 | AI assistants | ChatGPT, Claude |
-
----
-
-### Currently
-
-I'm interested in how technology, AI, and automation can make support and operations work faster and more reliable for both customers and teams. The repositories here are **demonstration projects built with fictional data**, created to show how I approach case tracking, workflows, and reporting.
