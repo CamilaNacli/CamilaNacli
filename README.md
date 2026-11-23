@@ -1,24 +1,13 @@
 ## Hi, I'm Camila
 
-I'm an operations professional working across **business operations, customer support and financial operations**. I use digital tools, automation and AI to organize processes, keep work moving and give teams clear visibility.
-
-For about five years I worked remotely for a U.S.-based business operation, starting as an assistant and growing into the COO role, and coordinated a remote team of five people, mostly through written, asynchronous communication. Today I also run my own independent activity as a banking correspondent in real estate financing, managing applications end to end.
+I’m an operations professional with hands-on experience in executive and administrative support, business operations, and customer support. I’ve supported a U.S.-based digital business remotely, organized day-to-day workflows, tracked tasks and deadlines, and built dashboards that gave the team visibility into its work.
 
 ---
 
 ### What I do
 
-**Business Operations**<br>
-Designing and documenting processes, managing CRM pipelines, and building the routines that keep a remote team aligned.
-
-**Customer Support**<br>
-Onboarding clients, understanding their needs, solving problems end to end, and writing clear updates so people always know where things stand.
-
-**Financial Operations**<br>
-Following mortgage financing applications from referral to completion: intake, documentation, follow-up with clients and financial institutions, and tracking of commissions and expected payments.
-
-**AI Tools & Automation**<br>
-Using tools such as Make, Zapier, ChatGPT and Claude in my daily work, and building dashboards that update automatically from Google Sheets.
+Executive & Administrative Support
+Supporting founders and remote teams with day-to-day coordination, organizing documents and information, tracking deadlines, and following up on open tasks.
 
 ---
 
