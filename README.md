@@ -24,10 +24,11 @@ Using tools such as Make, Zapier, ChatGPT and Claude in my daily work, and build
 
 ### Featured project
 
-**[Mortgage Financing Operations & Dashboard](https://github.com/CamilaNacli/mortgage-financing-operations)**<br>
-Tracking spreadsheet and dashboard I developed to manage mortgage financing applications end to end: pipeline status, monthly production tiers, commission splits and expected payments. [Live demo →](https://camilanacli.github.io/mortgage-financing-operations/)
+> **Professional Portfolio Demonstrations:** the projects in this profile are recreated demonstrations of solutions I developed and used in my professional experience. The original work is real; the public versions use fictional data only, to protect the confidentiality of clients and organizations.
 
-> **About the projects in this profile:** they are recreated demonstrations of solutions I developed during my professional experience. The original work is real; the public versions use fictional data only, to preserve the confidentiality of clients and organizations.
+**[Mortgage Financing Operations & Dashboard](https://github.com/CamilaNacli/mortgage-financing-operations)**<br>
+Tracking spreadsheet and live dashboard I built to manage mortgage financing applications end to end: application stages, commissions by party and expected payments.<br>
+[Live dashboard](https://camilanacli.github.io/mortgage-financing-operations/) · [Project details](https://github.com/CamilaNacli/mortgage-financing-operations)
 
 ---
 
