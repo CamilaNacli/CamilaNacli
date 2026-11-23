@@ -22,17 +22,17 @@ As an independent banking correspondent, I coordinate mortgage applications from
 
 ### Featured projects
 
-**[Mortgage Financing Operations & Dashboard](https://github.com/CamilaNacli/mortgage-financing-operations)**<br>
-Tracking spreadsheet and live dashboard I built to manage mortgage financing applications end to end: application stages, document follow-ups, commissions by party and expected payments.<br>
-**[Live dashboard](https://camilanacli.github.io/mortgage-financing-operations/)** · **[Case study](https://github.com/CamilaNacli/mortgage-financing-operations#readme)**
+**[Finance Operations & Payment Tracking](https://github.com/CamilaNacli/finance-operations-payment-tracking)**<br>
+Expense register and mobile-first monthly invoice dashboard I built to track paid, pending and overdue payments for tools, operating costs and team payments.<br>
+**[Live dashboard](https://naclisolucoes.com/portfolio-camila-nacli/finance-operations-payment-tracking/invoice-dashboard/)** · **[Case study](https://github.com/CamilaNacli/finance-operations-payment-tracking#readme)**
 
 **[Daily Advertising Tracking & Reporting](https://github.com/CamilaNacli/daily-advertising-tracking-reporting)**<br>
 Daily tracking spreadsheet and dashboard I built to record campaign data, calculate ROI after ad spend and follow results by month, weekday and campaign.<br>
 **[Live dashboard](https://camilanacli.github.io/daily-advertising-tracking-reporting/)** · **[Case study](https://github.com/CamilaNacli/daily-advertising-tracking-reporting#readme)**
 
-**[Finance Operations & Payment Tracking](https://github.com/CamilaNacli/finance-operations-payment-tracking)**<br>
-Expense register and mobile-first monthly invoice dashboard I built to track paid, pending and overdue payments for tools, operating costs and team payments.<br>
-**[Live dashboard](https://naclisolucoes.com/portfolio-camila-nacli/finance-operations-payment-tracking/invoice-dashboard/)** · **[Case study](https://github.com/CamilaNacli/finance-operations-payment-tracking#readme)**
+**[Mortgage Financing Operations & Dashboard](https://github.com/CamilaNacli/mortgage-financing-operations)**<br>
+Tracking spreadsheet and live dashboard I built to manage mortgage financing applications end to end: application stages, document follow-ups, commissions by party and expected payments.<br>
+**[Live dashboard](https://camilanacli.github.io/mortgage-financing-operations/)** · **[Case study](https://github.com/CamilaNacli/mortgage-financing-operations#readme)**
 
 > **Professional Portfolio Demonstrations:** the projects in this profile are recreated demonstrations of solutions I developed and used in my professional experience. The original work is real; the public versions use fictional data only, to protect the confidentiality of clients and organizations.
 
