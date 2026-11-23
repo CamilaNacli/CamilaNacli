@@ -30,13 +30,6 @@ Tracking spreadsheet and live dashboard I built to manage mortgage financing app
 
 ---
 
-### What I do
-
-**Executive & Administrative Support**<br>
-Supporting founders and remote teams with day-to-day coordination, organizing documents and information, tracking deadlines, and following up on open tasks.
-
----
-
 ### Background
 
 - **Business Administration** degree and **MBA in Industrial Management** from FGV
