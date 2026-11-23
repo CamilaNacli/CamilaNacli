@@ -30,6 +30,10 @@ Tracking spreadsheet and live dashboard I built to manage mortgage financing app
 Daily tracking spreadsheet and dashboard I built to record campaign data, calculate ROI after ad spend and follow results by month, weekday and campaign.<br>
 **[Live dashboard](https://camilanacli.github.io/daily-advertising-tracking-reporting/)** · **[Case study](https://github.com/CamilaNacli/daily-advertising-tracking-reporting#readme)**
 
+**[Finance Operations & Payment Tracking](https://github.com/CamilaNacli/finance-operations-payment-tracking)**<br>
+Expense register and mobile-first monthly invoice dashboard I built to track paid, pending and overdue payments for tools, operating costs and team payments.<br>
+**[Live dashboard](https://naclisolucoes.com/portfolio-camila-nacli/finance-operations-payment-tracking/invoice-dashboard/)** · **[Case study](https://github.com/CamilaNacli/finance-operations-payment-tracking#readme)**
+
 > **Professional Portfolio Demonstrations:** the projects in this profile are recreated demonstrations of solutions I developed and used in my professional experience. The original work is real; the public versions use fictional data only, to protect the confidentiality of clients and organizations.
 
 ---
